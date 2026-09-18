@@ -81,3 +81,99 @@ input {
     margin: 5px 0 12px;
     padding: 6px;
 }
+
+.box {
+    width: 160px;
+    padding: 15px;
+    margin: 10px 0;
+    color: #ffffff;
+}
+
+.static-box {
+    position: static;
+    background-color: #5d6d7e;
+}
+
+.relative-box {
+    position: relative;
+    left: 40px;
+    top: 10px;
+    background-color: #1e8449;
+}
+
+.absolute-box {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: #c0392b;
+}
+
+#main-heading {
+    font-size: 2.5rem;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+.size-px {
+    font-size: 18px;
+}
+
+.size-percent {
+    width: 50%;
+    background-color: #d6eaf8;
+}
+
+.size-em {
+    font-size: 1.4em;
+}
+
+.size-rem {
+    font-size: 1.4rem;
+}
+
+.profile-photo {
+    width: 200px;
+}
+
+.img-percent {
+    width: 30%;
+}
+
+.layout-table {
+    width: 100%;
+}
+
+.layout-table td {
+    vertical-align: top;
+}
+
+.menu-cell {
+    width: 25%;
+    background-color: #eaf2f8;
+}
+
+.float-box {
+    width: 40%;
+    padding: 15px;
+    color: #ffffff;
+}
+
+.float-left {
+    float: left;
+    background-color: #2874a6;
+}
+
+.float-right {
+    float: right;
+    background-color: #af601a;
+}
+
+.clear-fix {
+    clear: both;
+}
