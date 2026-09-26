@@ -3,7 +3,7 @@
 **Name:** Aidar Murat
 **Group:** SE - 2539
 
-**Published website:** https://github.com/ayduh/WEB-Tech-Assignment-1
+**Published website:** [https://github.com/ayduh/WEB-Tech-Assignment-1](https://ayduh.github.io/WEB-Tech-Assignment-1/)
 
 ## Objective
 
